@@ -1,1 +1,1 @@
-# kde-plasma-rice
+# Kde Plasma rice
