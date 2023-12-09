@@ -1,2 +1,2 @@
 # Kde Plasma rice
-This is step by step guide to achieve kde plasma rice / customization.
+This is step by step guide to my kde plasma rice / customization.
