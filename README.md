@@ -1,3 +1,5 @@
+***WORK IN PROGRESS*** 
+
 # Kde Plasma rice
 
 This is step by step guide to my kde plasma rice / customization. This guide is modular and does not require every step to be exactly same, feel free to experiment and mish mash your preferred options, this is possible thanks to KDE's modular and flexible structure.
