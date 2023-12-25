@@ -4,6 +4,10 @@
 
 This is step by step guide to my kde plasma rice / customization. This guide is modular and does not require every step to be exactly same, feel free to experiment and mish mash your preferred options, this is possible thanks to KDE's modular and flexible structure.
 
+screenshots:
+
+![](/assets/rice1.png "ss")
+
 ## My Setup
 
 - Kernel: 6.6.4
@@ -32,6 +36,8 @@ For dock or panel at the bottom add new empty panel and them move it to the bott
 ![](/assets/dock.png "dock")
 
 Don't worry if your panels are not rounded and not transparent, we will set this parameters in another sections.
+
+## 
 
 
 
