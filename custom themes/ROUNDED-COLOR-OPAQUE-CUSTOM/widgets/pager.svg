@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="45" height="13" version="1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <rect id="normal-center" style="opacity:0.001" width="5" height="5" x="4" y="4"/>
+ <g id="normal-topleft" transform="translate(-1,-2)">
+  <path  style="opacity:0.001" d="M 1,2 V 6 H 5 V 2 Z"/>
+  <path  style="opacity:0.5;fill:currentColor" class="ColorScheme-Text" d="M 4.0215891,2 C 2.1753913,2 1,3.3394291 1,5.0215891 V 6 H 2 V 5 C 2,3.73838 2.73838,3 4,3 H 5 V 2 Z"/>
+ </g>
+ <g id="normal-left" transform="translate(-1,-2)">
+  <path  style="opacity:0.001" d="m 1,6 h 4 v 5 H 1 Z"/>
+  <path  style="opacity:0.5;fill:currentColor" class="ColorScheme-Text" d="m 1,6 v 5 H 2 V 6 Z"/>
+ </g>
+ <g id="normal-top" transform="translate(-1,-2)">
+  <path  style="opacity:0.001" d="m 5,2 h 5 V 6 H 5 Z"/>
+  <path  style="opacity:0.5;fill:currentColor" class="ColorScheme-Text" d="m 5,2 v 1 h 5 V 2 Z"/>
+ </g>
+ <g id="normal-bottomleft" transform="translate(-1,-2)">
+  <path  style="opacity:0.001" d="m 1,15 v -4 h 4 v 4 z"/>
+  <path  style="opacity:0.5;fill:currentColor" class="ColorScheme-Text" d="m 1,11 v 1.028884 C 1,13.711044 2.3015842,15 3.9837342,15 H 5 V 14 H 4.3274842 C 3.0658742,14 2,12.946754 2,11.685134 V 11 Z"/>
+ </g>
+ <g id="normal-bottom" transform="translate(-1,-2)">
+  <path  style="opacity:0.001" d="m 5,11 h 5 v 4 H 5 Z"/>
+  <path  style="opacity:0.5;fill:currentColor" class="ColorScheme-Text" d="m 5,14 v 1 h 5 v -1 z"/>
+ </g>
+ <g id="normal-topright" transform="translate(-1,-2)">
+  <path  style="opacity:0.001" d="M 14,2 V 6 H 10 V 2 Z"/>
+  <path  style="opacity:0.5;fill:currentColor" class="ColorScheme-Text" d="m 10,2 v 1 h 1 c 1.26161,0 2,0.73838 2,2 v 1 h 1 V 5.0215891 C 14,3.3394291 12.673179,2 10.991029,2 Z"/>
+ </g>
+ <g id="normal-right" transform="translate(-1,-2)">
+  <path  style="opacity:0.001" d="m 10,6 h 4 v 5 h -4 z"/>
+  <path  style="opacity:0.5;fill:currentColor" class="ColorScheme-Text" d="m 13,6 v 5 h 1 V 6 Z"/>
+ </g>
+ <g id="normal-bottomright" transform="translate(-1,-2)">
+  <path  style="opacity:0.001" d="m 14,15 v -4 h -4 v 4 z"/>
+  <path  style="opacity:0.5;fill:currentColor" class="ColorScheme-Text" d="m 13,11 v 1 c 0,1.37344 -0.87096,2 -2,2 h -1 v 1 h 1 c 1.50538,0 3,-1.173019 3,-3.004269 V 11 Z"/>
+ </g>
+ <rect id="hover-center" style="opacity:0.001" width="5" height="5" x="20" y="4"/>
+ <path id="hover-topleft" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 19.021484,0 C 17.175287,0 16,1.3393244 16,3.0214844 V 4 h 1 V 3.0214844 C 17,1.8051092 17.658921,1 19.021484,1 H 20 V 0 Z"/>
+ <path id="hover-bottomleft" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 16,9 v 1.029297 C 16,11.711457 17.302225,13 18.984375,13 H 20 V 12 H 18.984375 C 17.812898,12 17,11.195364 17,10.029297 V 9 Z"/>
+ <path id="hover-topright" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 25,0 v 1 h 0.990234 C 27.141586,1 28,1.8654796 28,3.0214844 V 4 h 1 V 3.0214844 C 29,2.8112144 28.979041,2.6058132 28.939453,2.4082031 28.662341,1.0249323 27.462116,0 25.990234,0 Z"/>
+ <path id="hover-bottomright" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 28,9 V 9.996094 C 28,11.283227 26.986062,12 26,12 h -1 v 1 h 1 c 1.50538,0 3,-1.172656 3,-3.003906 V 9 Z"/>
+ <g id="hover-left" transform="translate(-7,-2)">
+  <path id="l" style="opacity:0.001" d="m 23,6 v 5 h 4 V 6 Z"/>
+  <rect  style="opacity:1;fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="23" y="6"/>
+ </g>
+ <g id="hover-top" transform="translate(-7,-2)">
+  <path id="t" style="opacity:0.001" d="m 27,2 v 4 h 5 V 2 Z"/>
+  <rect  style="opacity:1;fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="2" y="-32" transform="rotate(90)"/>
+ </g>
+ <g id="hover-right" transform="translate(-7,-2)">
+  <path id="r" style="opacity:0.001" d="m 32,6 v 5 h 4 V 6 Z"/>
+  <rect  style="opacity:1;fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="35" y="6"/>
+ </g>
+ <g id="hover-bottom" transform="translate(-7,-2)">
+  <path id="b" style="opacity:0.001" d="m 27,11 v 4 h 5 v -4 z"/>
+  <rect  style="opacity:1;fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="14" y="-32" transform="rotate(90)"/>
+ </g>
+ <rect id="active-center" style="opacity:0.001" width="5" height="5" x="33.98" y="-13"/>
+ <rect  style="opacity:0.001" width="5" height="5" x="36" y="4"/>
+ <path id="active-topleft" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 35.021484,0 C 33.175287,0 32,1.3393244 32,3.0214844 V 4 h 1 V 3.0214844 C 33,1.8051092 33.658921,1 35.021484,1 H 36 V 0 Z"/>
+ <path id="active-bottomleft" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 32,9 v 1.029297 C 32,11.711457 33.302225,13 34.984375,13 H 36 V 12 H 34.984375 C 33.812898,12 33,11.195364 33,10.029297 V 9 Z"/>
+ <path id="active-topright" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 41,0 v 1 h 0.990234 C 43.141586,1 44,1.8654796 44,3.0214844 V 4 h 1 V 3.0214844 C 45,2.8112144 44.97904,2.6058132 44.93945,2.4082031 44.662341,1.0249323 43.462116,0 41.990234,0 Z"/>
+ <path id="active-bottomright" style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 44,9 V 9.996094 C 44,11.283227 42.986062,12 42,12 h -1 v 1 h 1 c 1.50538,0 3,-1.172656 3,-3.003906 V 9 Z"/>
+ <g id="active-left" transform="translate(9,-2)">
+  <path  style="opacity:0.001" d="m 23,6 v 5 h 4 V 6 Z"/>
+  <rect  style="opacity:1;fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="23" y="6"/>
+ </g>
+ <g id="active-top" transform="translate(9,-2)">
+  <path  style="opacity:0.001" d="m 27,2 v 4 h 5 V 2 Z"/>
+  <rect  style="opacity:1;fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="2" y="-32" transform="rotate(90)"/>
+ </g>
+ <g id="active-right" transform="translate(9,-2)">
+  <path  style="opacity:0.001" d="m 32,6 v 5 h 4 V 6 Z"/>
+  <rect  style="opacity:1;fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="35" y="6"/>
+ </g>
+ <g id="active-bottom" transform="translate(9,-2)">
+  <path  style="opacity:0.001" d="m 27,11 v 4 h 5 v -4 z"/>
+  <rect  style="opacity:1;fill:currentColor" class="ColorScheme-Text" width="1" height="5" x="14" y="-32" transform="rotate(90)"/>
+ </g>
+</svg>

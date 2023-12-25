@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="44" height="44" version="1.1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="down-arrow" transform="matrix(3.7800687,0,0,3.7800687,-2.9862544,19.013745)">
+  <rect  style="opacity:0.001" width="5.82" height="5.82" x="-6.61" y=".79" transform="rotate(-90)"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 3.7007882,4.4972025 A 0.26474129,0.26481882 0 0 1 3.5172458,4.4211781 L 2.4578696,3.3614916 A 0.26474129,0.26481882 0 0 1 2.6455481,2.91 h 2.1182356 a 0.26474129,0.26481882 0 0 1 0.1856106,0.4514916 l -1.056791,1.0596865 a 0.26474129,0.26481882 0 0 1 -0.1918151,0.076024 z"/>
+ </g>
+ <g id="up-arrow" transform="matrix(3.7800687,0,0,-3.7800687,19.013746,46.986254)">
+  <rect  style="opacity:0.001" width="5.82" height="5.82" x="-6.61" y=".79" transform="rotate(-90)"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 3.7007882,4.4972025 A 0.26474129,0.26481882 0 0 1 3.5172458,4.4211781 L 2.4578696,3.3614916 A 0.26474129,0.26481882 0 0 1 2.6455481,2.91 h 2.1182356 a 0.26474129,0.26481882 0 0 1 0.1856106,0.4514916 l -1.056791,1.0596865 a 0.26474129,0.26481882 0 0 1 -0.1918151,0.076024 z"/>
+ </g>
+ <g id="right-arrow" transform="matrix(0,-3.7800687,3.7800687,0,-2.9862541,24.986254)">
+  <rect  style="opacity:0.001" width="5.82" height="5.82" x="-6.61" y=".79" transform="rotate(-90)"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 3.7007882,4.4972025 A 0.26474129,0.26481882 0 0 1 3.5172458,4.4211781 L 2.4578696,3.3614916 A 0.26474129,0.26481882 0 0 1 2.6455481,2.91 h 2.1182356 a 0.26474129,0.26481882 0 0 1 0.1856106,0.4514916 l -1.056791,1.0596865 a 0.26474129,0.26481882 0 0 1 -0.1918151,0.076024 z"/>
+ </g>
+ <g id="left-arrow" transform="matrix(0,-3.7800687,-3.7800687,0,46.986255,24.986254)">
+  <rect  style="opacity:0.001" width="5.82" height="5.82" x="-6.61" y=".79" transform="rotate(-90)"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 3.7007882,4.4972025 A 0.26474129,0.26481882 0 0 1 3.5172458,4.4211781 L 2.4578696,3.3614916 A 0.26474129,0.26481882 0 0 1 2.6455481,2.91 h 2.1182356 a 0.26474129,0.26481882 0 0 1 0.1856106,0.4514916 l -1.056791,1.0596865 a 0.26474129,0.26481882 0 0 1 -0.1918151,0.076024 z"/>
+ </g>
+</svg>

@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="128" height="128" version="1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <rect id="hint-stretch-borders" style="opacity:1;fill:#ff0000" width="5.221" height="5.403" x="-10" y="0"/>
+ <g id="north-center" transform="translate(-152,-4)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" d="m 264,112 v 5 h 5 v -5 z"/>
+ </g>
+ <g id="north-top" transform="translate(-152,-5)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(152,5)" d="m 112,103 v 1 1 2 h 5 v -2 -1 -1 z"/>
+  <path  style="opacity:0.2" d="m 264,107 v 1 h 5 v -1 z"/>
+ </g>
+ <g id="north-bottom" transform="translate(-152,-3)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(152,3)" d="m 112,114 v 3 1 h 5 v -1 -3 z"/>
+  <path  style="opacity:0.2" d="m 264,121 v 1 h 5 v -1 z"/>
+ </g>
+ <g id="south-center" transform="translate(-165,-4)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" d="m 264,112 v 5 h 5 v -5 z"/>
+ </g>
+ <g id="south-top" transform="translate(-165,-5)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(165,5)" d="m 99,103 v 1 1 2 h 5 v -2 -1 -1 z"/>
+  <path  style="opacity:0.2" d="m 264,107 v 1 h 5 v -1 z"/>
+ </g>
+ <g id="south-bottom" transform="translate(-165,-3)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(165,3)" d="m 99,114 v 3 1 h 5 v -1 -3 z"/>
+  <path  style="opacity:0.2" d="m 264,121 v 1 h 5 v -1 z"/>
+ </g>
+ <g id="east-center" transform="rotate(-90,159,175)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" d="m 264,112 v 5 h 5 v -5 z"/>
+ </g>
+ <g id="east-left" transform="rotate(-90,158.5,175.5)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="rotate(90,158.5,175.5)" d="m 91,65 v 5 h 1 3 v -5 h -3 z"/>
+  <path  style="opacity:0.2" d="m 264,107 v 1 h 5 v -1 z"/>
+ </g>
+ <g id="east-right" transform="rotate(-90,159.5,174.5)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="rotate(90,159.5,174.5)" d="m 102,65 v 5 h 3 1 v -5 h -1 z"/>
+  <path  style="opacity:0.2" d="m 264,121 v 1 h 5 v -1 z"/>
+ </g>
+ <g id="west-center" transform="rotate(-90,165.5,181.5)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" d="m 264,112 v 5 h 5 v -5 z"/>
+ </g>
+ <g id="west-left" transform="rotate(-90,165,182)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="rotate(90,165,182)" d="m 91,78 v 5 h 1 3 v -5 h -3 z"/>
+  <path  style="opacity:0.2" d="m 264,107 v 1 h 5 v -1 z"/>
+ </g>
+ <g id="west-right" transform="rotate(-90,166,181)">
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="rotate(90,166,181)" d="m 102,78 v 5 h 3 1 v -5 h -1 z"/>
+  <path  style="opacity:0.2" d="m 264,121 v 1 h 5 v -1 z"/>
+ </g>
+ <g id="vertical-centerindicator" transform="translate(1,15)">
+  <rect id="rect4223-8" style="opacity:0.2" width="42" height="1" x="11" y="32"/>
+  <rect id="rect4209-5" style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" width="42" height="1" x="11" y="33"/>
+  <rect id="rect2706-6" style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" width="42" height="1" x="11" y="31"/>
+ </g>
+ <g id="horizontal-centerindicator" transform="translate(-4,17)">
+  <rect id="rect4227-2" style="opacity:0.2" width="42" height="1" x="-31" y="8" transform="rotate(-90)"/>
+  <rect id="rect4229-5" style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" width="42" height="1" x="-31" y="9" transform="rotate(-90)"/>
+  <rect id="rect2721-2" style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" width="42" height="1" x="-31" y="7" transform="rotate(-90)"/>
+ </g>
+ <g id="west-minslider" transform="translate(-56,40)">
+  <rect  style="opacity:0.001" width="16" height="16" x="56" y="56"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 60.011719,57 a 0.99751689,1.0001 0 1 0 0,2 h 8.976562 a 0.99751689,1.0001 0 1 0 0,-2 z m 4.425781,3.001953 a 1.2077173,1.190017 0 0 0 -0.238281,0.03711 1.2077173,1.190017 0 0 0 -0.744141,0.556641 l -1.646484,2.810547 -1.646485,2.808594 A 1.2077173,1.190017 0 0 0 61.208984,68 H 63 v 1.478516 a 1.50015,1.50015 0 1 0 3,0 V 68 l 1.792969,-0.002 a 1.2077173,1.190017 0 0 0 1.046875,-1.783203 L 67.191406,63.40625 65.544922,60.595703 A 1.2077173,1.190017 0 0 0 64.4375,60.001953 Z M 64,68 h 0.5 0.5 v 1.486328 0.0059 C 65.0036,69.748181 64.94572,69.807936 64.871094,69.875 64.796474,69.94206 64.655334,70 64.5,70 64.344666,70 64.203531,69.94206 64.128906,69.875 64.054287,69.807776 63.99638,69.74818 64,69.492188 v -0.0059 z"/>
+ </g>
+ <g id="north-offsetslider" transform="translate(16.969543,56.253807)">
+  <rect  style="opacity:0.001" width="16" height="16" x="-16.97" y="55.75"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m -9.0534411,57.748358 a 1.6102901,1.6362728 0 0 0 -0.317796,0.05109 1.6102901,1.6362728 0 0 0 -0.9916079,0.766436 l -2.196421,3.862835 -2.194409,3.862835 a 1.6102901,1.6362728 0 0 0 1.395894,2.454638 h 4.3888189 l 4.390828,-0.002 a 1.6102901,1.6362728 0 0 0 1.393883,-2.452594 l -2.19642,-3.862836 -2.19441,-3.862835 a 1.6102901,1.6362728 0 0 0 -1.47836,-0.817532 z"/>
+ </g>
+ <g id="south-offsetslider" transform="matrix(1,0,0,-1,32.969543,183.74619)">
+  <rect  style="opacity:0.001" width="16" height="16" x="-16.97" y="55.75"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m -9.0534411,57.748358 a 1.6102901,1.6362728 0 0 0 -0.317796,0.05109 1.6102901,1.6362728 0 0 0 -0.9916079,0.766436 l -2.196421,3.862835 -2.194409,3.862835 a 1.6102901,1.6362728 0 0 0 1.395894,2.454638 h 4.3888189 l 4.390828,-0.002 a 1.6102901,1.6362728 0 0 0 1.393883,-2.452594 l -2.19642,-3.862836 -2.19441,-3.862835 a 1.6102901,1.6362728 0 0 0 -1.47836,-0.817532 z"/>
+ </g>
+ <g id="east-offsetslider" transform="matrix(0,-1,-1,0,103.74619,111.03045)">
+  <rect  style="opacity:0.001" width="16" height="16" x="-16.97" y="55.75"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m -9.0534411,57.748358 a 1.6102901,1.6362728 0 0 0 -0.317796,0.05109 1.6102901,1.6362728 0 0 0 -0.9916079,0.766436 l -2.196421,3.862835 -2.194409,3.862835 a 1.6102901,1.6362728 0 0 0 1.395894,2.454638 h 4.3888189 l 4.390828,-0.002 a 1.6102901,1.6362728 0 0 0 1.393883,-2.452594 l -2.19642,-3.862836 -2.19441,-3.862835 a 1.6102901,1.6362728 0 0 0 -1.47836,-0.817532 z"/>
+ </g>
+ <g id="west-offsetslider" transform="rotate(-90,51.642127,59.388323)">
+  <rect  style="opacity:0.001" width="16" height="16" x="-16.97" y="55.75"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m -9.0534411,57.748358 a 1.6102901,1.6362728 0 0 0 -0.317796,0.05109 1.6102901,1.6362728 0 0 0 -0.9916079,0.766436 l -2.196421,3.862835 -2.194409,3.862835 a 1.6102901,1.6362728 0 0 0 1.395894,2.454638 h 4.3888189 l 4.390828,-0.002 a 1.6102901,1.6362728 0 0 0 1.393883,-2.452594 l -2.19642,-3.862836 -2.19441,-3.862835 a 1.6102901,1.6362728 0 0 0 -1.47836,-0.817532 z"/>
+ </g>
+ <g id="west-maxslider" transform="matrix(1,0,0,-1,-40,168)">
+  <rect  style="opacity:0.001" width="16" height="16" x="56" y="56"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 60.011719,57 a 0.99751689,1.0001 0 1 0 0,2 h 8.976562 a 0.99751689,1.0001 0 1 0 0,-2 z m 4.425781,3.001953 a 1.2077173,1.190017 0 0 0 -0.238281,0.03711 1.2077173,1.190017 0 0 0 -0.744141,0.556641 l -1.646484,2.810547 -1.646485,2.808594 A 1.2077173,1.190017 0 0 0 61.208984,68 H 63 v 1.478516 a 1.50015,1.50015 0 1 0 3,0 V 68 l 1.792969,-0.002 a 1.2077173,1.190017 0 0 0 1.046875,-1.783203 L 67.191406,63.40625 65.544922,60.595703 A 1.2077173,1.190017 0 0 0 64.4375,60.001953 Z M 64,68 h 0.5 0.5 v 1.486328 0.0059 C 65.0036,69.748181 64.94572,69.807936 64.871094,69.875 64.796474,69.94206 64.655334,70 64.5,70 64.344666,70 64.203531,69.94206 64.128906,69.875 64.054287,69.807776 63.99638,69.74818 64,69.492188 v -0.0059 z"/>
+ </g>
+ <g id="south-maxslider" transform="rotate(90,32,72)">
+  <rect  style="opacity:0.001" width="16" height="16" x="56" y="56"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 60.011719,57 a 0.99751689,1.0001 0 1 0 0,2 h 8.976562 a 0.99751689,1.0001 0 1 0 0,-2 z m 4.425781,3.001953 a 1.2077173,1.190017 0 0 0 -0.238281,0.03711 1.2077173,1.190017 0 0 0 -0.744141,0.556641 l -1.646484,2.810547 -1.646485,2.808594 A 1.2077173,1.190017 0 0 0 61.208984,68 H 63 v 1.478516 a 1.50015,1.50015 0 1 0 3,0 V 68 l 1.792969,-0.002 a 1.2077173,1.190017 0 0 0 1.046875,-1.783203 L 67.191406,63.40625 65.544922,60.595703 A 1.2077173,1.190017 0 0 0 64.4375,60.001953 Z M 64,68 h 0.5 0.5 v 1.486328 0.0059 C 65.0036,69.748181 64.94572,69.807936 64.871094,69.875 64.796474,69.94206 64.655334,70 64.5,70 64.344666,70 64.203531,69.94206 64.128906,69.875 64.054287,69.807776 63.99638,69.74818 64,69.492188 v -0.0059 z"/>
+ </g>
+ <g id="south-minslider" transform="matrix(0,1,1,0,-8,40)">
+  <rect  style="opacity:0.001" width="16" height="16" x="56" y="56"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 60.011719,57 a 0.99751689,1.0001 0 1 0 0,2 h 8.976562 a 0.99751689,1.0001 0 1 0 0,-2 z m 4.425781,3.001953 a 1.2077173,1.190017 0 0 0 -0.238281,0.03711 1.2077173,1.190017 0 0 0 -0.744141,0.556641 l -1.646484,2.810547 -1.646485,2.808594 A 1.2077173,1.190017 0 0 0 61.208984,68 H 63 v 1.478516 a 1.50015,1.50015 0 1 0 3,0 V 68 l 1.792969,-0.002 a 1.2077173,1.190017 0 0 0 1.046875,-1.783203 L 67.191406,63.40625 65.544922,60.595703 A 1.2077173,1.190017 0 0 0 64.4375,60.001953 Z M 64,68 h 0.5 0.5 v 1.486328 0.0059 C 65.0036,69.748181 64.94572,69.807936 64.871094,69.875 64.796474,69.94206 64.655334,70 64.5,70 64.344666,70 64.203531,69.94206 64.128906,69.875 64.054287,69.807776 63.99638,69.74818 64,69.492188 v -0.0059 z"/>
+ </g>
+ <g id="east-minslider" transform="translate(-56,24)">
+  <rect  style="opacity:0.001" width="16" height="16" x="56" y="56"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 60.011719,57 a 0.99751689,1.0001 0 1 0 0,2 h 8.976562 a 0.99751689,1.0001 0 1 0 0,-2 z m 4.425781,3.001953 a 1.2077173,1.190017 0 0 0 -0.238281,0.03711 1.2077173,1.190017 0 0 0 -0.744141,0.556641 l -1.646484,2.810547 -1.646485,2.808594 A 1.2077173,1.190017 0 0 0 61.208984,68 H 63 v 1.478516 a 1.50015,1.50015 0 1 0 3,0 V 68 l 1.792969,-0.002 a 1.2077173,1.190017 0 0 0 1.046875,-1.783203 L 67.191406,63.40625 65.544922,60.595703 A 1.2077173,1.190017 0 0 0 64.4375,60.001953 Z M 64,68 h 0.5 0.5 v 1.486328 0.0059 C 65.0036,69.748181 64.94572,69.807936 64.871094,69.875 64.796474,69.94206 64.655334,70 64.5,70 64.344666,70 64.203531,69.94206 64.128906,69.875 64.054287,69.807776 63.99638,69.74818 64,69.492188 v -0.0059 z"/>
+ </g>
+ <g id="east-maxslider" transform="matrix(1,0,0,-1,-40,152)">
+  <rect  style="opacity:0.001" width="16" height="16" x="56" y="56"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 60.011719,57 a 0.99751689,1.0001 0 1 0 0,2 h 8.976562 a 0.99751689,1.0001 0 1 0 0,-2 z m 4.425781,3.001953 a 1.2077173,1.190017 0 0 0 -0.238281,0.03711 1.2077173,1.190017 0 0 0 -0.744141,0.556641 l -1.646484,2.810547 -1.646485,2.808594 A 1.2077173,1.190017 0 0 0 61.208984,68 H 63 v 1.478516 a 1.50015,1.50015 0 1 0 3,0 V 68 l 1.792969,-0.002 a 1.2077173,1.190017 0 0 0 1.046875,-1.783203 L 67.191406,63.40625 65.544922,60.595703 A 1.2077173,1.190017 0 0 0 64.4375,60.001953 Z M 64,68 h 0.5 0.5 v 1.486328 0.0059 C 65.0036,69.748181 64.94572,69.807936 64.871094,69.875 64.796474,69.94206 64.655334,70 64.5,70 64.344666,70 64.203531,69.94206 64.128906,69.875 64.054287,69.807776 63.99638,69.74818 64,69.492188 v -0.0059 z"/>
+ </g>
+ <g id="north-maxslider" transform="rotate(90,40,64)">
+  <rect  style="opacity:0.001" width="16" height="16" x="56" y="56"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 60.011719,57 a 0.99751689,1.0001 0 1 0 0,2 h 8.976562 a 0.99751689,1.0001 0 1 0 0,-2 z m 4.425781,3.001953 a 1.2077173,1.190017 0 0 0 -0.238281,0.03711 1.2077173,1.190017 0 0 0 -0.744141,0.556641 l -1.646484,2.810547 -1.646485,2.808594 A 1.2077173,1.190017 0 0 0 61.208984,68 H 63 v 1.478516 a 1.50015,1.50015 0 1 0 3,0 V 68 l 1.792969,-0.002 a 1.2077173,1.190017 0 0 0 1.046875,-1.783203 L 67.191406,63.40625 65.544922,60.595703 A 1.2077173,1.190017 0 0 0 64.4375,60.001953 Z M 64,68 h 0.5 0.5 v 1.486328 0.0059 C 65.0036,69.748181 64.94572,69.807936 64.871094,69.875 64.796474,69.94206 64.655334,70 64.5,70 64.344666,70 64.203531,69.94206 64.128906,69.875 64.054287,69.807776 63.99638,69.74818 64,69.492188 v -0.0059 z"/>
+ </g>
+ <g id="north-minslider" transform="matrix(0,1,1,0,-8,24)">
+  <rect  style="opacity:0.001" width="16" height="16" x="56" y="56"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 60.011719,57 a 0.99751689,1.0001 0 1 0 0,2 h 8.976562 a 0.99751689,1.0001 0 1 0 0,-2 z m 4.425781,3.001953 a 1.2077173,1.190017 0 0 0 -0.238281,0.03711 1.2077173,1.190017 0 0 0 -0.744141,0.556641 l -1.646484,2.810547 -1.646485,2.808594 A 1.2077173,1.190017 0 0 0 61.208984,68 H 63 v 1.478516 a 1.50015,1.50015 0 1 0 3,0 V 68 l 1.792969,-0.002 a 1.2077173,1.190017 0 0 0 1.046875,-1.783203 L 67.191406,63.40625 65.544922,60.595703 A 1.2077173,1.190017 0 0 0 64.4375,60.001953 Z M 64,68 h 0.5 0.5 v 1.486328 0.0059 C 65.0036,69.748181 64.94572,69.807936 64.871094,69.875 64.796474,69.94206 64.655334,70 64.5,70 64.344666,70 64.203531,69.94206 64.128906,69.875 64.054287,69.807776 63.99638,69.74818 64,69.492188 v -0.0059 z"/>
+ </g>
+</svg>

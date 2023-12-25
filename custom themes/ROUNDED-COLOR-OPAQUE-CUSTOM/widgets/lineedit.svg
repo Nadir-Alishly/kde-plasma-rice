@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="42" height="36" version="1.1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="base-top" transform="matrix(0.83333333,0,0,1,-9.83333,-53)">
+  <path  style="opacity:0.2;fill:currentColor" class="ColorScheme-Text" transform="translate(1,53)" d="M 12,0.5 35.999996,1 60,0.5 35.999996,0 Z"/>
+  <path  style="opacity:0.001" d="M 13,54 H 61 V 65 H 13 Z"/>
+ </g>
+ <g id="base-left" transform="matrix(0.09090909,0,0,1.0000001,-0.18181,-53)">
+  <path  style="opacity:0.001" d="M 2.0000001,64.999999 H 13 V 76.999998 H 2.0000001 Z"/>
+ </g>
+ <rect id="base-center" style="opacity:0.001" width="40" height="12" x="1" y="12"/>
+ <g id="base-right" transform="matrix(0.09090904,0,0,1,35.45456,-52.99999)">
+  <path  style="opacity:0.001" d="M 61,64.999995 72,65 v 11.999999 l -11,-5e-6 z"/>
+ </g>
+ <g id="base-bottom" transform="matrix(0.83333332,0,0,1,-9.83333,-52.99999)">
+  <path  style="opacity:0.2;fill:currentColor" class="ColorScheme-Text" transform="translate(1,53)" d="M 12,35.49999 36.000009,36 60,35.49999 36.000009,35 Z"/>
+  <path  style="opacity:0.001" d="m 12.999999,88 h 48 V 76.999999 h -48 z"/>
+ </g>
+ <rect id="base-hint-top-margin" style="opacity:1;fill:#ff0000" width="2" height="1" x="20" y="0"/>
+ <rect id="base-hint-right-margin" style="opacity:1;fill:#ff0000" width="2" height="1" x="-19" y="41" transform="rotate(-90)"/>
+ <rect id="base-hint-left-margin" style="opacity:1;fill:#ff0000" width="2" height="1" x="-19" y="0" transform="rotate(-90)"/>
+ <rect id="base-hint-bottom-margin" style="opacity:1;fill:#ff0000" width="2" height="1" x="20" y="35"/>
+ <g id="base-topleft" transform="matrix(0.08333335,0,0,1,-24.09524,-546.64795)">
+  <path  style="opacity:0.001" transform="translate(289.14285,546.64795)" d="M 3e-6,0.99999925 12,1 V 0 L 3e-6,-7.5405274e-7 Z"/>
+  <rect  style="opacity:0.001" width="12" height="11" x="289.14" y="547.65"/>
+ </g>
+ <g id="base-bottomleft" transform="matrix(0.08333331,0,0,1,-24.09522,-546.64794)">
+  <rect  style="opacity:0.001" width="12" height="11" x="289.14" y="-581.65" transform="scale(1,-1)"/>
+  <path  style="opacity:0.001" d="m 289.14285,582.64795 v -1 h 12 v 1 z"/>
+ </g>
+ <g id="base-topright" transform="matrix(0.08333331,0,0,1,11.90477,-546.64794)">
+  <rect  style="opacity:0.001" width="12" height="11" x="-361.14" y="547.65" transform="scale(-1,1)"/>
+  <path  style="opacity:0.001" d="m 361.14285,547.64795 h -12 v -1 h 12 z"/>
+ </g>
+ <g id="base-bottomright" transform="matrix(0.08333331,0,0,1,11.90478,-546.64794)">
+  <rect  style="opacity:0.001" width="12" height="11" x="-361.14" y="-581.65" transform="scale(-1)"/>
+  <path  style="opacity:0.001" d="m 361.14285,582.64795 v -1 h -12 v 1 z"/>
+ </g>
+ <rect id="hint-stretch-borders" style="opacity:1;fill:#ff0000" width="1" height="1" x="-1" y="35"/>
+</svg>

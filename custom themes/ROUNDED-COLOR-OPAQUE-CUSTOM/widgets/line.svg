@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="45" version="1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="vertical-line" transform="translate(-32.96875,-13.59375)">
+  <path style="opacity:0.001" d="m 32.96875,13.59375 v 40 h 3 v -40 z"/>
+  <path style="opacity:0.2;fill:currentColor" class="ColorScheme-Text" d="m 34.46875,13.59375 -0.5,20 0.5,20 v 0 l 0.5,-20 -0.5,-20 z"/>
+ </g>
+ <g id="horizontal-line" transform="translate(-28.690972,-13.529)">
+  <path style="opacity:0.001" d="m 75.690972,55.529 h -40 v 3 h 40 z"/>
+  <path style="opacity:0.2;fill:currentColor" class="ColorScheme-Text" d="m 75.690972,57.029 -20,-0.5 -20,0.5 v 0 l 20,0.5 20,-0.5 z"/>
+ </g>
+</svg>

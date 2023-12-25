@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="19" height="15" version="1.1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <rect id="hint-tile-center" style="opacity:1;fill:#ff2a2a" width="4" height="4" x="7" y="2"/>
+ <rect id="hint-bar-size" style="opacity:1;fill:#ff2a2a" width="6" height="6" x="0" y="0"/>
+ <path id="bar-inactive-bottomright" style="opacity:0.2" d="m 5,12 v 3 c 1.661989,0 3,-1.338011 3,-3 z"/>
+ <path id="bar-inactive-right" style="opacity:0.2" d="m 5,10 v 2 h 3 v -2 z"/>
+ <path id="bar-inactive-topright" style="opacity:0.2" d="m 5,7 v 3 H 8 C 8,8.338011 6.661989,7 5,7 Z"/>
+ <path id="bar-inactive-bottomleft" style="opacity:0.2" d="m 0,12 c 0,1.661989 1.338011,3 3,3 v -3 z"/>
+ <path id="bar-inactive-left" style="opacity:0.2" d="m 0,10 v 2 h 3 v -2 z"/>
+ <path id="bar-inactive-topleft" style="opacity:0.2" d="M 3,7 C 1.338011,7 0,8.338011 0,10 h 3 z"/>
+ <path id="bar-inactive-bottom" style="opacity:0.2" d="m 3,12 v 3 h 2 v -3 z"/>
+ <path id="bar-inactive-center" style="opacity:0.2" d="M 5,10 H 3 v 2 h 2 z"/>
+ <path id="bar-inactive-top" style="opacity:0.2" d="m 3,7 v 3 H 5 V 7 Z"/>
+ <path id="bar-active-bottomright" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 14,12 v 3 c 1.661989,0 3,-1.33801 3,-3 z"/>
+ <path id="bar-active-right" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 14,10 v 2 h 3 v -2 z"/>
+ <path id="bar-active-topright" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 14,7 v 3 h 3 C 17,8.33801 15.661989,7 14,7 Z"/>
+ <path id="bar-active-bottomleft" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 9,12 c 0,1.66199 1.338011,3 3,3 v -3 z"/>
+ <path id="bar-active-left" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 9,10 v 2 h 3 v -2 z"/>
+ <path id="bar-active-topleft" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="M 12,7 C 10.338011,7 9,8.33801 9,10 h 3 z"/>
+ <path id="bar-active-bottom" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 12,12 v 3 h 2 v -3 z"/>
+ <path id="bar-active-center" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 14,10 h -2 v 2 h 2 z"/>
+ <path id="bar-active-top" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 12,7 v 3 h 2 V 7 Z"/>
+ <rect id="hint-stretch-borders" style="opacity:1;fill:#ff2a2a" width="3" height="3" x="12" y="3"/>
+ <rect id="hint-bar-stretch" style="opacity:1;fill:#ff2a2a" width="3" height="3" x="16" y="3"/>
+</svg>

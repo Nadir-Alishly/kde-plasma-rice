@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="32" height="16" version="1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="checkbox" transform="translate(-4.9936352)">
+  <rect  style="opacity:0.001" width="16" height="16" x="20.99" y="0"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 33,4 a 0.99768609,0.99872965 0 0 0 -0.826126,0.4290988 l -4.304039,6.0307872 -2.15884,-2.1610967 a 0.99768609,0.99872965 0 1 0 -1.410649,1.4121248 l 2.992759,2.9958889 a 0.99768609,0.99872965 0 0 0 1.517812,-0.124828 L 33.798848,5.5915662 A 0.99768609,0.99872965 0 0 0 33,4 Z"/>
+ </g>
+ <g id="radiobutton">
+  <rect  style="opacity:0.001" width="16" height="16" x="0" y="0"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 8,3 A 5,5 0 0 0 3,8 5,5 0 0 0 8,13 5,5 0 0 0 13,8 5,5 0 0 0 8,3 Z M 8,5 A 3,3 0 0 1 11,8 3,3 0 0 1 8,11 3,3 0 0 1 5,8 3,3 0 0 1 8,5 Z"/>
+ </g>
+</svg>

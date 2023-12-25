@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="22" height="22" version="1.1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="notifications-disabled" transform="translate(-1,-1)">
+  <path  style="opacity:0.001" d="M 1,1 H 23 V 23 H 1 Z"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-NegativeText" d="M 4,4.707031 19.292969,20 20,19.292969 4.7070312,4 Z"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 12,4 A 1,1 0 0 0 11,5 1,1 0 0 0 11.0098,5.128906 3.9999999,3.9999999 0 0 0 8.7695652,6.648438 L 9.4863281,7.365234 A 3,3 0 0 1 12,6 3,3 0 0 1 15,9 c 0,3 0.585938,4 2.585938,6 h -0.464844 l 1,1 H 19 V 15 C 17,13 16,12 16,9 A 3.9999999,3.9999999 0 0 0 12.990234,5.128906 1,1 0 0 0 13,5 1,1 0 0 0 12,4 Z M 7.9472656,10.068359 C 7.7219031,12.273085 6.7411309,13.258869 5,15 v 1 h 8.878906 l -1,-1 H 6.4140625 C 7.8937066,13.520356 8.5962396,12.584141 8.8632812,10.984375 Z M 10.269531,17 A 2,2 0 0 0 10,18 a 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -0.271484,-1 z"/>
+ </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg"  width="22" height="22" version="1.1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+</defs>
+ <g id="22-22-start-here-kde">
+  <rect  style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="m 7.0000008,3 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 7.0000002,0 -2,2 3,3 -3,3 2,2 5,-5 z M 4.5000008,9 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 -1.5,-1.5 z m 4.5,6 a 2.0000001,2 0 0 0 -2,2 2.0000001,2 0 0 0 2,2 2.0000001,2 0 0 0 2.0000002,-2 2.0000001,2 0 0 0 -2.0000002,-2 z"/>
+ </g>
+ <g id="start-here-kde">
+  <rect  style="opacity:0.001" width="32" height="32" x="22" y="-10"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-Text" d="M 32.5,-6 C 31.671573,-6 31,-5.3284271 31,-4.5 31,-3.6715729 31.671573,-3 32.5,-3 33.328427,-3 34,-3.6715729 34,-4.5 34,-5.3284271 33.328427,-6 32.5,-6 Z m 10,0 -3,3 4.5,4.5 -4.5,4.5 3,3 7.5,-7.5 z m -14,9 C 27.119288,3 26,4.119288 26,5.5 26,6.880712 27.119288,8 28.5,8 29.880712,8 31,6.880712 31,5.5 31,4.119288 29.880712,3 28.5,3 Z m 6.5,9 c -1.656854,0 -3,1.343146 -3,3 0,1.656854 1.343146,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 z"/>
+ </g>
+</svg>

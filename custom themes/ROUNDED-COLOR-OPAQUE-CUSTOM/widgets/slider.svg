@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="118" height="89" version="1">
+ <defs id="rounded">
+     <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+  <linearGradient id="linearGradient875">
+   <stop  style="stop-color:#080808;stop-opacity:1" offset="0"/>
+   <stop  style="stop-color:#080808;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient877" cx="16" cy="39.833" r="9.167" fx="16" fy="39.833" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient875"/>
+  <radialGradient id="radialGradient893" cx="16" cy="39" r="8.75" fx="16" fy="39" gradientTransform="translate(0,2.4514281e-6)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient875"/>
+  <radialGradient id="radialGradient922" cx="16" cy="39.833" r="9.167" fx="16" fy="39.833" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient875"/>
+  <radialGradient id="radialGradient948" cx="16" cy="39" r="8.75" fx="16" fy="39" gradientTransform="translate(0,2.4514281e-6)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient875"/>
+  <radialGradient id="radialGradient950" cx="16" cy="39.833" r="9.167" fx="16" fy="39.833" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient875"/>
+  <radialGradient id="radialGradient952" cx="16" cy="39.833" r="9.167" fx="16" fy="39.833" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient875"/>
+ </defs>
+ <path id="groove-top" style="opacity:0.2" d="m 36,11 v 2 h 2 v -2 z"/>
+ <path id="groove-topleft" style="opacity:0.2" d="m 36,11 c -1.12144,0 -2,0.87856 -2,2 h 2 z"/>
+ <rect id="hint-tile-center" style="opacity:1;fill:#ff0000" width="2" height="2" x="28" y="13" rx="0" ry="2"/>
+ <path id="groove-topright" style="opacity:0.2" d="m 40,13 c 0,-1.12144 -0.87856,-2 -2,-2 v 2 z"/>
+ <path id="groove-bottom" style="opacity:0.2" d="m 36,17 v -2 h 2 v 2 z"/>
+ <path id="groove-bottomleft" style="opacity:0.2" d="m 36,17 c -1.12144,0 -2,-0.87856 -2,-2 h 2 z"/>
+ <path id="groove-bottomright" style="opacity:0.2" d="m 40,15 c 0,1.12144 -0.87856,2 -2,2 v -2 z"/>
+ <path id="groove-center" style="opacity:0.2" d="m 36,13 v 2 h 2 v -2 z"/>
+ <path id="groove-left" style="opacity:0.2" d="m 34,13 v 2 h 2 v -2 z"/>
+ <path id="groove-right" style="opacity:0.2" d="m 38,13 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-top" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="M 46,11.000001 V 13 h 2 v -1.999999 z"/>
+ <path id="groove-highlight-topleft" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 46,11.000001 c -1.12144,0 -2,0.87856 -2,1.999999 h 2 z"/>
+ <path id="groove-highlight-topright" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 50,13 c 0,-1.121439 -0.87856,-1.999999 -2,-1.999999 V 13 Z"/>
+ <path id="groove-highlight-bottom" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 46,17 v -2 h 2 v 2 z"/>
+ <path id="groove-highlight-bottomleft" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 46,17 c -1.12144,0 -2,-0.87856 -2,-2 h 2 z"/>
+ <path id="groove-highlight-bottomright" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 50,15 c 0,1.12144 -0.87856,2 -2,2 v -2 z"/>
+ <path id="groove-highlight-center" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 46,13 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-left" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 44,13 v 2 h 2 v -2 z"/>
+ <path id="groove-highlight-right" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="m 48,13 v 2 h 2 v -2 z"/>
+ <g id="horizontal-slider-handle" transform="matrix(1.2,0,0,1.2,-7.1999999,30.2)">
+  <rect id="rect3785-4" style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
+  <path id="path3921-2" style="opacity:1;fill:url(#radialGradient893)" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
+  <path  style="opacity:1;fill:url(#radialGradient893)" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
+  <path id="path3923-4" style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="matrix(1.875,0,0,1.875,-10.25,-36)" d="m 18,40 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z"/>
+ </g>
+ <g id="horizontal-slider-shadow" style="opacity:0.001" transform="translate(-4.9999999,-33)">
+  <rect  style="opacity:0.001" width="24" height="24" x="96" y="98"/>
+ </g>
+ <g id="vertical-slider-shadow" style="opacity:0.001" transform="translate(-1.9999999,-69)">
+  <rect  style="opacity:0.001" width="24" height="24" x="96" y="98"/>
+ </g>
+ <g id="horizontal-slider-hover" transform="matrix(1.2,0,0,1.2,22.8,30.2)">
+  <rect  style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
+  <path  style="opacity:1;fill:url(#radialGradient877)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
+  <path  style="opacity:1;fill:url(#radialGradient877)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
+  <circle  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
+ </g>
+ <circle id="hint-handle-size" style="opacity:1;fill:#ff0000" cx="13" cy="11" r="11"/>
+ <g id="horizontal-slider-focus" transform="matrix(1.2,0,0,1.2,52.8,30.2)">
+  <rect  style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
+  <path  style="opacity:1;fill:url(#radialGradient922)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
+  <path  style="opacity:1;fill:url(#radialGradient922)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
+  <circle  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
+ </g>
+ <g id="vertical-slider-handle" transform="matrix(1.2,0,0,1.2,-7.1999999,2.2)">
+  <rect  style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
+  <path  style="opacity:1;fill:url(#radialGradient948)" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
+  <path  style="opacity:1;fill:url(#radialGradient948)" d="m 24.750001,39 a 8.75,8.75 0 0 1 -8.75,8.75 8.75,8.75 0 0 1 -8.7500011,-8.75 8.75,8.75 0 0 1 8.7500011,-8.75 8.75,8.75 0 0 1 8.75,8.75 z"/>
+  <path  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" transform="matrix(1.875,0,0,1.875,-10.25,-36)" d="m 18,40 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z"/>
+ </g>
+ <g id="vertical-slider-hover" transform="matrix(1.2,0,0,1.2,22.8,2.2)">
+  <rect  style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
+  <path  style="opacity:1;fill:url(#radialGradient950)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
+  <path  style="opacity:1;fill:url(#radialGradient950)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
+  <circle  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
+ </g>
+ <g id="vertical-slider-focus" transform="matrix(1.2,0,0,1.2,52.8,2.2)">
+  <rect  style="opacity:0.001" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
+  <path  style="opacity:1;fill:url(#radialGradient952)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
+  <path  style="opacity:1;fill:url(#radialGradient952)" d="M 16,30.666667 C 10.937466,30.666851 6.8335177,34.770799 6.8333332,39.833333 6.8335171,44.895867 10.937466,48.999816 16,49 21.062534,48.999816 25.166482,44.895867 25.166666,39.833333 25.166482,34.7708 21.062533,30.666851 16,30.666667 Z"/>
+  <circle  style="opacity:1;fill:currentColor" class="ColorScheme-ButtonBackground" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
+ </g>
+ <rect id="hint-stretch-borders" style="opacity:1;fill:#ff0000" width="2" height="2" x="28" y="9"/>
+</svg>

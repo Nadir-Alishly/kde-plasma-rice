@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="275" version="1">
+<defs id="rounded">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+        color:#eff0f1;
+        }
+        .ColorScheme-NegativeText {
+        color:#da4453;
+        }
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }
+        .ColorScheme-Background {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#444c53;
+      }
+    </style>
+ </defs>
+ <rect id="hint-tile-center" style="fill:#ff0000" width="7" height="7" x="0" y="0"/>
+ <path id="topright" style="fill:currentColor" class="ColorScheme-Background" d="m 104,12.000917 v 23.999998 h 24 C 128,16 124,12.000917 104,12.000917 Z"/>
+ <rect id="top" style="fill:currentColor" class="ColorScheme-Background" width="80" height="24" x="24" y="12"/>
+ <rect id="center" style="fill:currentColor" class="ColorScheme-Background" width="80" height="80" x="24" y="36"/>
+ <path id="topleft" style="fill:currentColor" class="ColorScheme-Background" d="M 24,12.000002 V 36 H 0 C 0,16 4,12.000002 24,12.000002 Z"/>
+ <path id="bottomright" style="fill:currentColor" class="ColorScheme-Background" d="m 104,139.99908 v -24 h 24 c 0,20.00092 -4,24 -24,24 z"/>
+ <rect id="bottom" style="fill:currentColor" class="ColorScheme-Background" width="80" height="24" x="24" y="-140" transform="scale(1,-1)"/>
+ <path id="bottomleft" style="fill:currentColor" class="ColorScheme-Background" d="M 24.000017,140 V 116 H 1.7081479e-5 C 1.7081479e-5,136 4,140 24.000017,140 Z"/>
+ <rect id="left" style="fill:currentColor" class="ColorScheme-Background" width="80" height="24" x="36" y="-24" transform="rotate(90)"/>
+ <rect id="right" style="fill:currentColor" class="ColorScheme-Background" width="80" height="24" x="36" y="-128" transform="rotate(90)"/>
+ <rect id="hint-top-margin" style="fill:#ff0000" width="8" height="12" x="60" y="36"/>
+ <rect id="hint-left-margin" style="fill:#ff0000" width="12" height="8" x="24" y="70"/>
+ <rect id="hint-right-margin" style="fill:#ff0000" width="12" height="8" x="92" y="70"/>
+ <rect id="hint-bottom-margin" style="fill:#ff0000" width="8" height="12" x="60" y="104"/>
+ <path id="mask-topright" d="m 104,147.00092 v 23.99999 h 24 C 128,151 124,147.00092 104,147.00092 Z"/>
+ <rect id="mask-top" width="80" height="24" x="24" y="147"/>
+ <rect id="mask-center" width="80" height="80" x="24" y="171"/>
+ <path id="mask-topleft" d="m 24,147 v 23.99999 H 0 C 0,151 4,147 24,147 Z"/>
+ <path id="mask-bottomright" d="m 104,274.99908 v -24 h 24 c 0,20.00092 -4,24 -24,24 z"/>
+ <rect id="mask-bottom" width="80" height="24" x="24" y="-275" transform="scale(1,-1)"/>
+ <path id="mask-bottomleft" d="M 24,275 V 251 H 0 c 0,20 4,24 24,24 z"/>
+ <rect id="mask-left" width="80" height="24" x="171" y="-24" transform="rotate(90)"/>
+ <rect id="mask-right" width="80" height="24" x="171" y="-128" transform="rotate(90)"/>
+</svg>
